@@ -2,6 +2,11 @@
   "author": "Evans Kiprotich",
   "name": "fcc-learn-npm-package-json",
   "description": "Am learning backend on freecodecamp",
+  "keywords": [
+    "node",
+    "freecodecamp",
+    "Evans"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
